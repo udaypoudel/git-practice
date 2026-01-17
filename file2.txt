@@ -1,7 +1,10 @@
 git init
 
 git add
+undo of gitadd = git rm --cached filename
 
 git commit -m "....."
 
 git push 
+
+...
