@@ -5,4 +5,7 @@
 => it doesnot delete the changes but it keep the file in staging area.
 
   git reset --mixed commitid
-=> it keep the file in non staging area.   
+=> it keep the file in non staging area.
+
+  git revert commitid
+=> it create a new commit object   
