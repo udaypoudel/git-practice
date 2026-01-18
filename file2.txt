@@ -1,10 +1,8 @@
-git init
+ git reset --hard commitid
+=> the changes that are made in the specific commet are deleted.
 
-git add
-undo of gitadd = git rm --cached filename
+  git reset --soft commitid
+=> it doesnot delete the changes but it keep the file in staging area.
 
-git commit -m "....."
-
-git push 
-
-...
+  git reset --mixed commitid
+=> it keep the file in non staging area.   
