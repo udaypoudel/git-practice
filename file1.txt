@@ -1,1 +1,9 @@
-this is the random file contenttttt..
+workflow of git 
+    
+     git init 
+        
+     git add
+ 
+     git commit -m " "
+
+     git push 
