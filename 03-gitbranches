@@ -1,2 +1,14 @@
   git branch 
 =>shows all the branch available on local repo
+
+  git branch branchname
+=>create a branch
+
+  git checkout branchname
+=>go to the specific branch 
+
+ git branch -d branchname
+=>delete a branch
+
+
+  (we can create a branch from anywhere like not only from main branch also from branch to branch)
