@@ -6,6 +6,6 @@
 
   git reset --mixed commitid
 => it keep the file in non staging area.
-
-  git revert commitid
-=> it create a new commit object   
+   
+  git revert commitid 
+=> it create a new commit object.where iti doesnot delete the commit history but it removes the changes made in particular commit.but we ca n see what changes are made in particular commit
