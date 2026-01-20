@@ -25,4 +25,6 @@
     git add <file>
     git commit  
 
-    while resolving the merge conflict ..it create a new commit where a merge conflict is solved
+    while resolving the merge conflict ..it create a new commit where a merge conflict is solved.
+
+
