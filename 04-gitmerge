@@ -23,4 +23,7 @@
     Choose or combine the correct code
     Remove the markers
     git add <file>
-    git commit   
+    git commit  
+
+         while resolving the merge conflict ..it create a new commit 
+         where a merge conflict is solved
