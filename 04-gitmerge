@@ -16,4 +16,11 @@
 
 
             working on a same file form different branch 
-. merge conflict happens   
+. merge conflict happens if two people modify same line in a same file
+
+. to solve merge conflict 
+    Open the file
+    Choose or combine the correct code
+    Remove the markers
+    git add <file>
+    git commit   
