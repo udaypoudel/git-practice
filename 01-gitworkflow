@@ -6,4 +6,10 @@ workflow of git
  
      git commit -m " "
 
+     git branch branchname (creating a branch)
+     
+     git merge brnachname(merging a branch)
+
      git push 
+
+
