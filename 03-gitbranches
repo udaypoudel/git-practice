@@ -12,7 +12,3 @@
          
 
   (we can create a branch from anywhere like not only from main branch also from branch to branch)
-
-
-  git merge branchname 
-=>used to merge the one branch to another.
