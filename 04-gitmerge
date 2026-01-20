@@ -1,7 +1,7 @@
   git merge branchname
 =>used to merge the branch .
 
-   important ex. 
+          important ex. 
          
 . from a source branch two branch are made,
 
@@ -10,5 +10,11 @@
 . if trying merging branch1 simple merging happens,
 
 . but to merge branch2 git makes another commit object bcoz
-  the head of source branch is changed beacuse we already merge
+  the head of source branch is changed beacuse we already merge  
   the branch1 and now head is pointing to the commit of branch1.
+
+
+
+            working on a same file form different branch 
+
+.   
