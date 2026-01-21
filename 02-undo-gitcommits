@@ -9,3 +9,6 @@
    
   git revert commitid 
 => it create a new commit object.where iti doesnot delete the commit history but it removes the changes made in particular commit.but we ca n see what changes are made in particular commit
+
+  git rm --cached filename
+=> undo of git add       
