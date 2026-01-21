@@ -10,5 +10,7 @@
  git branch -d branchname
 =>delete a branch
          
+ git push -u origin brnachmain
+=>push the local branch to remote branch 
 
   (we can create a branch from anywhere like not only from main branch also from branch to branch)
